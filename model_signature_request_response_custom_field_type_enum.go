@@ -21,8 +21,8 @@ type SignatureRequestResponseCustomFieldTypeEnum string
 
 // List of SignatureRequestResponseCustomFieldTypeEnum
 const (
-	TEXT SignatureRequestResponseCustomFieldTypeEnum = "text"
-	CHECKBOX SignatureRequestResponseCustomFieldTypeEnum = "checkbox"
+	SIGNATUREREQUESTRESPONSECUSTOMFIELDTYPEENUM_TEXT SignatureRequestResponseCustomFieldTypeEnum = "text"
+	SIGNATUREREQUESTRESPONSECUSTOMFIELDTYPEENUM_CHECKBOX SignatureRequestResponseCustomFieldTypeEnum = "checkbox"
 )
 
 // All allowed values of SignatureRequestResponseCustomFieldTypeEnum enum
