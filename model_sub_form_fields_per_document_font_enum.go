@@ -21,22 +21,22 @@ type SubFormFieldsPerDocumentFontEnum string
 
 // List of SubFormFieldsPerDocumentFontEnum
 const (
-	HELVETICA SubFormFieldsPerDocumentFontEnum = "helvetica"
-	ARIAL SubFormFieldsPerDocumentFontEnum = "arial"
-	COURIER SubFormFieldsPerDocumentFontEnum = "courier"
-	CALIBRI SubFormFieldsPerDocumentFontEnum = "calibri"
-	CAMBRIA SubFormFieldsPerDocumentFontEnum = "cambria"
-	GEORGIA SubFormFieldsPerDocumentFontEnum = "georgia"
-	TIMES SubFormFieldsPerDocumentFontEnum = "times"
-	TREBUCHET SubFormFieldsPerDocumentFontEnum = "trebuchet"
-	VERDANA SubFormFieldsPerDocumentFontEnum = "verdana"
-	ROBOTO SubFormFieldsPerDocumentFontEnum = "roboto"
-	ROBOTO_MONO SubFormFieldsPerDocumentFontEnum = "robotoMono"
-	NOTO_SANS SubFormFieldsPerDocumentFontEnum = "notoSans"
-	NOTO_SERIF SubFormFieldsPerDocumentFontEnum = "notoSerif"
-	NOTO_CJK_JP_REGULAR SubFormFieldsPerDocumentFontEnum = "notoCJK-JP-Regular"
-	NOTO_HEBREW_REGULAR SubFormFieldsPerDocumentFontEnum = "notoHebrew-Regular"
-	NOTO_SAN_THAI_MERGED SubFormFieldsPerDocumentFontEnum = "notoSanThaiMerged"
+	SUBFORMFIELDSPERDOCUMENTFONTENUM_HELVETICA SubFormFieldsPerDocumentFontEnum = "helvetica"
+	SUBFORMFIELDSPERDOCUMENTFONTENUM_ARIAL SubFormFieldsPerDocumentFontEnum = "arial"
+	SUBFORMFIELDSPERDOCUMENTFONTENUM_COURIER SubFormFieldsPerDocumentFontEnum = "courier"
+	SUBFORMFIELDSPERDOCUMENTFONTENUM_CALIBRI SubFormFieldsPerDocumentFontEnum = "calibri"
+	SUBFORMFIELDSPERDOCUMENTFONTENUM_CAMBRIA SubFormFieldsPerDocumentFontEnum = "cambria"
+	SUBFORMFIELDSPERDOCUMENTFONTENUM_GEORGIA SubFormFieldsPerDocumentFontEnum = "georgia"
+	SUBFORMFIELDSPERDOCUMENTFONTENUM_TIMES SubFormFieldsPerDocumentFontEnum = "times"
+	SUBFORMFIELDSPERDOCUMENTFONTENUM_TREBUCHET SubFormFieldsPerDocumentFontEnum = "trebuchet"
+	SUBFORMFIELDSPERDOCUMENTFONTENUM_VERDANA SubFormFieldsPerDocumentFontEnum = "verdana"
+	SUBFORMFIELDSPERDOCUMENTFONTENUM_ROBOTO SubFormFieldsPerDocumentFontEnum = "roboto"
+	SUBFORMFIELDSPERDOCUMENTFONTENUM_ROBOTO_MONO SubFormFieldsPerDocumentFontEnum = "robotoMono"
+	SUBFORMFIELDSPERDOCUMENTFONTENUM_NOTO_SANS SubFormFieldsPerDocumentFontEnum = "notoSans"
+	SUBFORMFIELDSPERDOCUMENTFONTENUM_NOTO_SERIF SubFormFieldsPerDocumentFontEnum = "notoSerif"
+	SUBFORMFIELDSPERDOCUMENTFONTENUM_NOTO_CJK_JP_REGULAR SubFormFieldsPerDocumentFontEnum = "notoCJK-JP-Regular"
+	SUBFORMFIELDSPERDOCUMENTFONTENUM_NOTO_HEBREW_REGULAR SubFormFieldsPerDocumentFontEnum = "notoHebrew-Regular"
+	SUBFORMFIELDSPERDOCUMENTFONTENUM_NOTO_SAN_THAI_MERGED SubFormFieldsPerDocumentFontEnum = "notoSanThaiMerged"
 )
 
 // All allowed values of SubFormFieldsPerDocumentFontEnum enum

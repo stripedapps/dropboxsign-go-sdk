@@ -21,16 +21,16 @@ type SubFormFieldsPerDocumentTypeEnum string
 
 // List of SubFormFieldsPerDocumentTypeEnum
 const (
-	CHECKBOX SubFormFieldsPerDocumentTypeEnum = "checkbox"
-	CHECKBOX_MERGE SubFormFieldsPerDocumentTypeEnum = "checkbox-merge"
-	DATE_SIGNED SubFormFieldsPerDocumentTypeEnum = "date_signed"
-	DROPDOWN SubFormFieldsPerDocumentTypeEnum = "dropdown"
-	HYPERLINK SubFormFieldsPerDocumentTypeEnum = "hyperlink"
-	INITIALS SubFormFieldsPerDocumentTypeEnum = "initials"
-	SIGNATURE SubFormFieldsPerDocumentTypeEnum = "signature"
-	RADIO SubFormFieldsPerDocumentTypeEnum = "radio"
-	TEXT SubFormFieldsPerDocumentTypeEnum = "text"
-	TEXT_MERGE SubFormFieldsPerDocumentTypeEnum = "text-merge"
+	SUBFORMFIELDSPERDOCUMENTTYPEENUM_CHECKBOX SubFormFieldsPerDocumentTypeEnum = "checkbox"
+	SUBFORMFIELDSPERDOCUMENTTYPEENUM_CHECKBOX_MERGE SubFormFieldsPerDocumentTypeEnum = "checkbox-merge"
+	SUBFORMFIELDSPERDOCUMENTTYPEENUM_DATE_SIGNED SubFormFieldsPerDocumentTypeEnum = "date_signed"
+	SUBFORMFIELDSPERDOCUMENTTYPEENUM_DROPDOWN SubFormFieldsPerDocumentTypeEnum = "dropdown"
+	SUBFORMFIELDSPERDOCUMENTTYPEENUM_HYPERLINK SubFormFieldsPerDocumentTypeEnum = "hyperlink"
+	SUBFORMFIELDSPERDOCUMENTTYPEENUM_INITIALS SubFormFieldsPerDocumentTypeEnum = "initials"
+	SUBFORMFIELDSPERDOCUMENTTYPEENUM_SIGNATURE SubFormFieldsPerDocumentTypeEnum = "signature"
+	SUBFORMFIELDSPERDOCUMENTTYPEENUM_RADIO SubFormFieldsPerDocumentTypeEnum = "radio"
+	SUBFORMFIELDSPERDOCUMENTTYPEENUM_TEXT SubFormFieldsPerDocumentTypeEnum = "text"
+	SUBFORMFIELDSPERDOCUMENTTYPEENUM_TEXT_MERGE SubFormFieldsPerDocumentTypeEnum = "text-merge"
 )
 
 // All allowed values of SubFormFieldsPerDocumentTypeEnum enum

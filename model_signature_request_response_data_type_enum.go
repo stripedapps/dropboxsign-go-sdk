@@ -21,15 +21,15 @@ type SignatureRequestResponseDataTypeEnum string
 
 // List of SignatureRequestResponseDataTypeEnum
 const (
-	TEXT SignatureRequestResponseDataTypeEnum = "text"
-	CHECKBOX SignatureRequestResponseDataTypeEnum = "checkbox"
-	DATE_SIGNED SignatureRequestResponseDataTypeEnum = "date_signed"
-	DROPDOWN SignatureRequestResponseDataTypeEnum = "dropdown"
-	INITIALS SignatureRequestResponseDataTypeEnum = "initials"
-	RADIO SignatureRequestResponseDataTypeEnum = "radio"
-	SIGNATURE SignatureRequestResponseDataTypeEnum = "signature"
-	TEXT_MERGE SignatureRequestResponseDataTypeEnum = "text-merge"
-	CHECKBOX_MERGE SignatureRequestResponseDataTypeEnum = "checkbox-merge"
+	SIGNATUREREQUESTRESPONSEDATATYPEENUM_TEXT SignatureRequestResponseDataTypeEnum = "text"
+	SIGNATUREREQUESTRESPONSEDATATYPEENUM_CHECKBOX SignatureRequestResponseDataTypeEnum = "checkbox"
+	SIGNATUREREQUESTRESPONSEDATATYPEENUM_DATE_SIGNED SignatureRequestResponseDataTypeEnum = "date_signed"
+	SIGNATUREREQUESTRESPONSEDATATYPEENUM_DROPDOWN SignatureRequestResponseDataTypeEnum = "dropdown"
+	SIGNATUREREQUESTRESPONSEDATATYPEENUM_INITIALS SignatureRequestResponseDataTypeEnum = "initials"
+	SIGNATUREREQUESTRESPONSEDATATYPEENUM_RADIO SignatureRequestResponseDataTypeEnum = "radio"
+	SIGNATUREREQUESTRESPONSEDATATYPEENUM_SIGNATURE SignatureRequestResponseDataTypeEnum = "signature"
+	SIGNATUREREQUESTRESPONSEDATATYPEENUM_TEXT_MERGE SignatureRequestResponseDataTypeEnum = "text-merge"
+	SIGNATUREREQUESTRESPONSEDATATYPEENUM_CHECKBOX_MERGE SignatureRequestResponseDataTypeEnum = "checkbox-merge"
 )
 
 // All allowed values of SignatureRequestResponseDataTypeEnum enum
